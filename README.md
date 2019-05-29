@@ -1,0 +1,2 @@
+# SharkSH
+Our Linux shell.
